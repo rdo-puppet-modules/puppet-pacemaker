@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Mon, 21 Dec 2015 14:39:39 +0100
+Reviewed-on: https://review.gerrithub.io/255896
+Project: rdo-puppet-modules/puppet-pacemaker
+Branch: refs/heads/recomb-original-master-1950b26946d12cb224bb82a39c9c77db0ea9feb7
